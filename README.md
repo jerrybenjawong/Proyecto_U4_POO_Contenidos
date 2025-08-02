@@ -99,7 +99,7 @@ Novela,Cien Años de Soledad,1967,Drama,Gabriel García Márquez
 ## 📌 Notas Adicionales
 
 - Código limpio y comentado.
-- Diagrama UML incluido (`ContenidoAudiovisual_Diagrama.puml`) compatible con PlantUML.
+- Diagrama UML incluido (`ContenidoAudiovisual_U4_POO`).
 - Escalable para agregar más tipos de contenidos o relaciones.
 
 ---
