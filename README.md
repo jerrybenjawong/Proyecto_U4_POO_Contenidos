@@ -29,8 +29,6 @@ ContenidoAudiovisual_U4_POO/
 │   ├── DocumentalTest.java
 │   ├── SerieTVTest.java
 │   └── NovelaTest.java
-├── README.md              # Documentación del proyecto
-└── ContenidoAudiovisual_Diagrama.puml # Diagrama UML en PlantUML
 ```
 
 ---
