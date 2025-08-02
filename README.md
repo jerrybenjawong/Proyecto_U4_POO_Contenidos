@@ -42,12 +42,11 @@ ContenidoAudiovisual_U4_POO/
 - Java JDK 17 o superior
 - IDE como IntelliJ IDEA o Eclipse
 - Biblioteca JUnit 5 (para pruebas)
-- PlantUML (opcional para visualizar el diagrama)
 
 ### ▶️ Ejecutar el Proyecto
 
 1. **Descarga el archivo `.zip`** y descomprímelo.
-2. **Abre tu IDE** (por ejemplo, IntelliJ).
+2. **Abre tu IDE** (por ejemplo, Eclipse).
 3. Selecciona `File > Open` y navega a la carpeta descomprimida.
 4. Abre el archivo `Main.java` en el paquete `main` y ejecútalo.
 5. Puedes clonar el repositorio como opcion alterna 
