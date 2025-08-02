@@ -105,6 +105,9 @@ Novela,Cien Años de Soledad,1967,Drama,Gabriel García Márquez
 ---
 
 ## Diagrama UML de proyecto Contenido Audiovisuales
+![Diagrama realizado con PlantUML](https://github.com/jerrybenjawong/Proyecto_U4_POO_Contenidos/blob/b4f5e492defa49f51ee10861ffb0e231d0f53a0c/Diagrama%20UML%20ContenidosAudiovisuales_U4_POO.png)
+
+---
 
 ## 👨‍💻 Autor
 
